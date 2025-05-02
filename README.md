@@ -1,6 +1,6 @@
 ### Hi, I'm Jeremy, currently 21 years old. I'm a student in computer science, and I love creating projects and learning new things. On this GitHub, you'll find various open-source projects. Have fun!
 
-- 💻 I use Python[Idle Python](https://www.python.com/python/) [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PHPStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
+- 💻 I use Python[Idle Python](https://www.python.com/python/),[IntelliJ IDEA](https://www.jetbrains.com/idea/), [PHPStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
 - 🇫🇷 I live and study in Paris.
 
 (README inspired by [Evaninoo](https://github.com/Evaninoo))
